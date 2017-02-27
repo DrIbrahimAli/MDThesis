@@ -6,6 +6,6 @@
   "latexmkOptions": "-bibtex-con -c -pdf -shell-escape",
   "output": "latex",
   "openOutput": "true",
-  "postAction": "",
+  "postAction": "link",
   "postPath": "output"
 }
