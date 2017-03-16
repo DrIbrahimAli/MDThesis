@@ -1,11 +1,11 @@
 {
   "projectPath": "/home/ibrahim/projects/medicine/MDthesis/thesis_source",
-  "title": "LaTeX-Plus Project",
+  "title": "MD Thesis",
   "root": "thesis.tex",
   "program": "pdflatex",
   "latexmkOptions": "-bibtex-con -c -pdf -shell-escape",
   "output": "latex",
   "openOutput": "true",
   "postAction": "link",
-  "postPath": "output"
+  "postPath": "ouput"
 }
