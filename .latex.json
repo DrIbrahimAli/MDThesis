@@ -3,9 +3,9 @@
   "title": "MD Thesis",
   "root": "thesis.tex",
   "program": "pdflatex",
-  "latexmkOptions": "-bibtex-con -c -pdf -shell-escape",
+  "latexmkOptions": "-bibtex -c -pdf -shell-escape -e '$max_repeat = 15 ;'",
   "output": "latex",
   "openOutput": "true",
   "postAction": "link",
-  "postPath": "ouput"
+  "postPath": "output"
 }
