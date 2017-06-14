@@ -1,0 +1,124 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Termux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+White space in argument---line 142 of file thesis.aux
+ : \citation{Olney
+ :                 2006}
+I'm skipping whatever remains of this command
+Database file #1: thesis.bib
+You're missing a field part---line 111 of file thesis.bib
+ :     volume = 
+ :              ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 132 of file thesis.bib
+ :     number = 
+ :              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 141 of file thesis.bib
+ :   pages        = 508
+ :                     -11,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 151 of file thesis.bib
+ :     number  =   
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 161 of file thesis.bib
+ :     number  =   
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 451 of file thesis.bib
+ : @article{deBold1981
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 746 of file thesis.bib
+ :  volume =  291
+ :               (Pt 1),
+I'm skipping whatever remains of this entry
+Repeated entry---line 751 of file thesis.bib
+ : @article{Kisch1956
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1021 of file thesis.bib
+ : @article{Miyagi2000
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1265 of file thesis.bib
+ :  year =  1998
+ :              a,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1275 of file thesis.bib
+ :  year =  1998
+ :              b,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1465 of file thesis.bib
+ :  year =  1992
+ :              a,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1475 of file thesis.bib
+ :  year =  1992
+ :              b,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1485 of file thesis.bib
+ :  year =  1992
+ :              c,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1641 of file thesis.bib
+ : @article{Yan2000
+ :                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1910 of file thesis.bib
+ :  volume = 65
+ :             (12),
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1920 of file thesis.bib
+ :  volume = 69
+ :             (11),
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Young2004"
+Warning--I didn't find a database entry for "Omland2008"
+Warning--I didn't find a database entry for "Prontera2009"
+Warning--empty publisher in Widmaier2008
+Warning--can't use both volume and number fields in Yan2000
+You've used 161 entries,
+            2773 wiz_defined-function locations,
+            1602 strings with 42018 characters,
+and the built_in function-call counts, 106573 in all, are:
+= -- 8622
+> -- 9261
+< -- 22
++ -- 3097
+- -- 2931
+* -- 10311
+:= -- 17038
+add.period$ -- 482
+call.type$ -- 161
+change.case$ -- 1459
+chr.to.int$ -- 156
+cite$ -- 324
+duplicate$ -- 3376
+empty$ -- 6781
+format.name$ -- 3114
+if$ -- 21464
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 161
+newline$ -- 812
+num.names$ -- 645
+pop$ -- 2626
+preamble$ -- 1
+purify$ -- 1299
+quote$ -- 0
+skip$ -- 2946
+stack$ -- 0
+substring$ -- 4787
+swap$ -- 192
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1764
+warning$ -- 2
+while$ -- 634
+width$ -- 0
+write$ -- 2095
+(There were 18 error messages)
