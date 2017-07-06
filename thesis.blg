@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Termux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+Database file #1: thesis.bib
+Warning--I didn't find a database entry for "Young2004"
+Warning--I didn't find a database entry for "Omland2008"
+Warning--I didn't find a database entry for "Prontera2009"
+Warning--empty publisher in Widmaier2008
+You've used 161 entries,
+            2773 wiz_defined-function locations,
+            1614 strings with 41737 characters,
+and the built_in function-call counts, 105002 in all, are:
+= -- 8540
+> -- 9261
+< -- 20
++ -- 3097
+- -- 2931
+* -- 10115
+:= -- 16832
+add.period$ -- 483
+call.type$ -- 161
+change.case$ -- 1459
+chr.to.int$ -- 156
+cite$ -- 323
+duplicate$ -- 3364
+empty$ -- 6571
+format.name$ -- 3114
+if$ -- 21297
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 161
+newline$ -- 812
+num.names$ -- 645
+pop$ -- 2615
+preamble$ -- 1
+purify$ -- 1299
+quote$ -- 0
+skip$ -- 2916
+stack$ -- 0
+substring$ -- 4144
+swap$ -- 172
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1764
+warning$ -- 1
+while$ -- 642
+width$ -- 0
+write$ -- 2098
+(There were 4 warnings)
