@@ -20,7 +20,7 @@ for line in fh:
         *a, b = author.split(' ')
         reauthor = reauthor + b + ' ' + ' '.join(a) + ' and '
     authors = reauthor[:-5]
-    year, data = data.split(',')
+    year, data = data.split(';')
     volume, pages = data.split(':')
     abbrev = (abbrev + year).replace(' ','')
     print('@article{'+abbrev+',')
