@@ -1,4 +1,4 @@
-\documentclass[14pt,a4paper,onecolumn]{extarticle}
+\documentclass[17pt,a4paper,onecolumn]{extarticle}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -6,6 +6,7 @@
 \usepackage{graphicx}
 \usepackage{natbib}
 \usepackage{multirow}
+\usepackage{pdflscape}
 
 \bibliographystyle{plainnat}
 \setlength{\parskip}{1.2em}
@@ -137,7 +138,7 @@ Circulating BNP acts as an antagonist of the renin angiotensine aldosterone syst
 Absolute values of BNP are significantly lower than values of NT-proBNP, despite equimolar secretion. The reference ranges for BNP and NT-proBNP vary depending on the assay that is used and the nature of the control population. In general, the suggested normal range for circulating BNP is 0.5-30 pg/ml and for circulating NT-proBNP the suggested normal range is 68-112 pg/ml. \citep{Cowie2003} These natriuretic peptides may be beneficial in clinical practice since plasma levels of BNP and NT-proBNP are elevated in patients with HF and are related to the severity of the disease. \citep{Mukoyama1990}
 
 \begin{figure}
-    \includegraphics[scale=0.7]{./images/BNP_secretion.png}
+    \includegraphics[scale=0.4]{./images/BNP_secretion.png}
     \caption{Secretion of BNP and NtproBNP}
     \label{BNP_secretion}
 \end{figure}
@@ -153,11 +154,11 @@ Additionally, an optimal strategy to identify acute HF was to use age stratified
  The added value of these natriuretic peptides on top of established diagnostic tools, including symptoms and signs, has not been properly studied, in particular in relevant subgroups, and currently large studies are underway addressing this issue. Discharge diagnoses have been instrumental in providing estimates and time trends in prevalence and incidence of HF. However, previous studies in the Netherlands, Sweden and in the United States showed that respectively 20\%, 18\% and 33\% of the patients that were given the discharge diagnosis ‘HF’ at close examination did not have HF at all. \citep{Heerdink1995,Ingelsson2005,Goff2000} Evidence is lacking on potential independent predictors of the discharge diagnosis HF, including BNP and/ or NT-proBNP and an easy applicable scoring rule could be helpful in this setting. Moreover, it is unknown whether the established BNP cut off value of 100 pg/ml can also be used at discharge after admission for HF.
 
 \begin{figure}
-    \includegraphics[scale=0.7]{./images/BNP_ER.png}
+    \includegraphics[scale=0.4]{./images/BNP_ER.png}
     \caption{ROC curves for BNP in the diagnosis of heart failure at the emergency department.}
     \label{BNP_ER}
 \end{figure}\begin{figure}
-    \includegraphics[scale=0.7]{./images/NTBNP_ER.png}
+    \includegraphics[scale=0.4]{./images/NTBNP_ER.png}
     \caption{ROC curves for NTproBNP in the diagnosis of heart failure at the emergency department.}
     \label{NTBNP_ER}
 \end{figure}
@@ -318,18 +319,18 @@ Hyperthyroidism and hypothyroidism are defined as serum TSH levels above or belo
 
 \subsubsection{Definitions}
 The following definitions were used in this Study
-    \begin{itemize}
-        \item Moderate to severe COPD:
+    \begin{description}
+        \item [Moderate to severe COPD]
         Shortness of breath at own pace on the level, FEV1 $< 80\%$ of predicted, or continuous use of bronchodilators for $> 2$ weeks.
-        \item ischemic cerebral stroke:
+        \item [ischemic cerebral stroke]
         New neurologic deficit lasting for  24hours with definite image evidence of cerebrovascular accident by computed tomography
-        \item low output heart failure:
+        \item [low output heart failure]
         Need of CPB during surgery, intra-aortic balloon pump and/or inotropes at 48 hours post-operatively
-        \item Myocardial infarction:
+        \item [Myocardial infarction]
         Elevated tropoponin 10x99th percentile URL at 12 hours after surgery associated with characteristic ECG changes or echocardiographically documented new regional wall motion abnormality
-        \item Prolonged intubation:
+        \item [Prolonged intubation]
         Intubation more then 24 hours postoperatively and/or reintubation following planned extubation
-    \end{itemize}
+    \end{description}
 
 \subsubsection{Primary and Secondary Outcomes}
 Primary outcomes:
@@ -381,6 +382,7 @@ The preoperative NTproBNP levels ranged 100-14400 pg/mL, with a mean of 3096.83.
     \end{tabular}
 \end{table}
 
+\begin{landscape}
 \begin{table}[]
 \centering
 \caption{Relation between NTBNP and other parameters}
@@ -390,20 +392,21 @@ The preoperative NTproBNP levels ranged 100-14400 pg/mL, with a mean of 3096.83.
                                   &     & \multicolumn{5}{c}{NTproBNP}                                   &                        \\
                                   &     & Mean     & Standard Deviation & Median   & Minimum  & Maximum  & P value                \\ \hline
 \multirow{2}{*}{low Co}           & yes & 4900.00  & 3079.77            & 6500.00  & 600.00   & 7500.00  & \multirow{2}{*}{0.168} \\
-                                  & no  & 2968.42  & 3297.52            & 1600.00  & 100.00   & 14400.00 &                        \\
+                                  & no  & 2968.42  & 3297.52            & 1600.00  & 100.00   & 14400.00 &                        \\ \hline
 \multirow{2}{*}{Arrhythmia}       & yes & 4000.00  & 2929.16            & 4100.00  & 600.00   & 7200.00  & \multirow{2}{*}{0.462} \\
-                                  & no  & 3063.79  & 3337.70            & 1600.00  & 100.00   & 14400.00 &                        \\
+                                  & no  & 3063.79  & 3337.70            & 1600.00  & 100.00   & 14400.00 &                        \\ \hline
 \multirow{2}{*}{perioperative MI} & yes & 4375.00  & 3262.28            & 4850.00  & 600.00   & 7200.00  & \multirow{2}{*}{0.397} \\
-                                  & no  & 3037.93  & 3312.38            & 1600.00  & 100.00   & 14400.00 &                        \\
+                                  & no  & 3037.93  & 3312.38            & 1600.00  & 100.00   & 14400.00 &                        \\ \hline
 \multirow{2}{*}{proloonged vent}  & yes & 5500.00  & 2443.36            & 6600.00  & 2700.00  & 7200.00  & \multirow{2}{*}{0.121} \\
-                                  & no  & 3003.39  & 3306.94            & 1600.00  & 100.00   & 14400.00 &                        \\
-\multirow{2}{*}{Delayed Recovery} & yes & 10300.00 & .                  & 10300.00 & 10300.00 & 10300.00 & \multirow{2}{*}{0.129} \\
-                                  & no  & 3006.56  & 3192.90            & 1600.00  & 100.0    & 14400.00 &                        \\
+                                  & no  & 3003.39  & 3306.94            & 1600.00  & 100.00   & 14400.00 &                        \\ \hline
+\multirow{2}{*}{Delayed Recovery} & yes & 10300.00 &                    & 10300.00 & 10300.00 & 10300.00 & \multirow{2}{*}{0.129} \\
+                                  & no  & 3006.56  & 3192.90            & 1600.00  & 100.0    & 14400.00 &                        \\ \hline
 \multirow{2}{*}{mortality}        & yes & 4950.00  & 3181.98            & 4950.00  & 2700.00  & 7200.00  & \multirow{2}{*}{0.306} \\
-                                  & no  & 3063.33  & 3311.51            & 1600.00  & 100.00   & 14400.00 &
+                                  & no  & 3063.33  & 3311.51            & 1600.00  & 100.00   & 14400.00 &                        \\ \hline
 
 \end{tabular}
 \end{table}
+\end{landscape}
 
 \begin{table}[]
 \centering
