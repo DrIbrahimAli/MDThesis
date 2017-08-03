@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper,onecolumn]{extarticle}
+\documentclass[14pt,a4paper,onecolumn]{extarticle}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -19,6 +19,7 @@
 \begin{document}
 
 \maketitle
+\clearpage
 
 \tableofcontents
 \clearpage
@@ -89,6 +90,7 @@ ANP is secreted in response to:
 
 
 \begin{figure}
+    \centering
     \includegraphics[scale=0.3]{./images/NP_causes.png}
     \caption{The causes and mechanisms of elevated natriuretic peptides levels.}
     \label{NP_causes}
@@ -152,6 +154,14 @@ CNP is not stored in granules and its secretion is increased by growth factors \
 
 \subsection{Natriuretic Peptide Receptors}
 There are three known natriuretic peptide binding proteins. All members contain a relatively large (\~450 amino acid) extracellular ligand binding domain and a single membrane-spanning region of about 20 residues. Natriuretic peptide receptors A and B contain an equally large intracellular domain consisting of a so-called kinase homology domain, dimerization domain, and carboxyl-terminal guanylyl cyclase domain. Thus, NPR-A and NPR-B signal by catalyzing the synthesis of the intracellular signaling molecule cGMP. In contrast, NPR-C only contains a 37 residue intracellular domain and lacks guanylyl cyclase activity. It primarily controls local natriuretic peptide concentrations via receptor-mediated internalization and degradation, although many groups have reported signaling functions for NPR-C as well \citep{Rose2008}.
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=1]{./images/NP_receptors.jpg}
+    \caption{Schematic representation of natriuretic receptors}
+    \label{NP_receptors}
+\end{figure}
+
 
 \subsubsection{Natriuretic Peptide Receptor-A}
 Natriuretic peptide receptor-A (NPR-A) is the principal receptor of ANP and BNP.
@@ -241,8 +251,7 @@ With the approval of the first new intravenous compound for the treatment of hea
 The results of a 75-person study (BNP-CARDS study), however, suggest nesiritide has no detrimental effect on renal function, when cohorts of similar baseline renal function were compared \citep{Witteles2007}. The number of persons in this study was small, however, so a more definitive conclusion on whether nesiritide impairs renal function will have to wait until the result of more detailed, larger studies are released. Several such studies are currently in progress. One is a clinical trial enlisting at least 1,900 patients throughout Europe and Latin America - the ETNA (Evaluating Treatment with Nesiritide in Acute Decompensated Heart Failure) trial.
 This trial was scheduled to begin in 2006 to study the efficacy of nesiritide on treatment of acutely decompensated heart failure. Results from the trial are not yet available. The second study involving about 900 patients, called FUSION II, was conducted to determine the safety and efficacy of outpatient administration of nesiritide to patients with heart failure. Preliminary analysis indicates that nesiritide did not induce renal complications or increase patient mortality \citep{Cleland2007}. %TO-DO find more recent data
 
-Finally, there is the ASCEND HF trial (Acute Study of Clinical Effectiveness of Nesiritide in Decompensated Heart Failure). This trial is scheduled to compare the effects of nesiritide treatment versus placebo for a minimum of 24 h up to a maximum of 7 days in 7,000 heart failure patients. Meanwhile, other therapeutic applications of nesiritide have also been investigated. Given that nesiritide was often reported to decrease pulmonary capillary wedge pressure, Michaels and colleagues tested its effectiveness in pulmonary hypertension \citep{Michaels2005}.
-However, they found no effect of a 30 min infusion. Chen and colleagues have investigated the effectiveness of subcutaneous injections of nesiritide. Their most recent paper on effects in a dog heart failure pacing model suggest that subcutaneous injection of nesiritide reduces both preload and afterload but has no effect on cardiac output \citep{Chen2006}.
+Finally, there is the ASCEND HF trial (Acute Study of Clinical Effectiveness of Nesiritide in Decompensated Heart Failure). This trial is scheduled to compare the effects of nesiritide treatment versus placebo for a minimum of 24 h up to a maximum of 7 days in 7,000 heart failure patients. Meanwhile, other therapeutic applications of nesiritide have also been investigated. Given that nesiritide was often reported to decrease pulmonary capillary wedge pressure, Michaels and colleagues tested its effectiveness in pulmonary hypertension, however, they found no effect for a 30 min infusion \citep{Michaels2005}. Chen and colleagues have investigated the effectiveness of subcutaneous injections of nesiritide. Their most recent paper on effects in a dog heart failure pacing model suggest that subcutaneous injection of nesiritide reduces both preload and afterload but has no effect on cardiac output \citep{Chen2006}.
 
 \subsection{BNP and NT-proBNP}
 \subsubsection{Differences in Physiology}
@@ -252,6 +261,7 @@ Circulating BNP acts as an antagonist of the renin angiotensine aldosterone syst
 Absolute values of BNP are significantly lower than values of NT-proBNP, despite equimolar secretion. The reference ranges for BNP and NT-proBNP vary depending on the assay that is used and the nature of the control population. In general, the suggested normal range for circulating BNP is 0.5-30 pg/ml and for circulating NT-proBNP the suggested normal range is 68-112 pg/ml. \citep{Cowie2003} These natriuretic peptides may be beneficial in clinical practice since plasma levels of BNP and NT-proBNP are elevated in patients with HF and are related to the severity of the disease. \citep{Mukoyama1990}
 
 \begin{figure}
+    \centering
     \includegraphics[scale=0.4]{./images/BNP_secretion.png}
     \caption{Secretion of BNP and NtproBNP}
     \label{BNP_secretion}
@@ -272,10 +282,14 @@ This value of 100 pg/ml also discriminated non-systolic HF (LVEF <45\%) from non
   Discharge diagnoses have been instrumental in providing estimates and time trends in prevalence and incidence of HF. However, previous studies in the Netherlands, Sweden and in the United States showed that respectively 20\%, 18\% and 33\% of the patients that were given the discharge diagnosis ‘HF’ at close examination did not have HF at all. \citep{Heerdink1995,Ingelsson2005,Goff2000} It is unknown whether the established BNP cut off value of 100 pg/ml can also be used at discharge after admission for HF.
 
 \begin{figure}
+    \centering
     \includegraphics[scale=0.4]{./images/BNP_ER.png}
     \caption{ROC curves for BNP in the diagnosis of heart failure at the emergency department.}
     \label{BNP_ER}
-\end{figure}\begin{figure}
+\end{figure}
+
+\begin{figure}
+    \centering
     \includegraphics[scale=0.4]{./images/NTBNP_ER.png}
     \caption{ROC curves for NTproBNP in the diagnosis of heart failure at the emergency department.}
     \label{NTBNP_ER}
@@ -468,6 +482,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cont_ntprobnp.png}
     \caption{}
     \label{}
@@ -475,6 +490,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_low_co.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict postoperative low output heart failure. area under curve = 0.69; 95\%CI = 0.44-0.93}
     \label{}
@@ -482,6 +498,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_low_co.png}
     \caption{}
     \label{}
@@ -489,6 +506,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_low_co.png}
     \caption{}
     \label{}
@@ -496,6 +514,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_arrhythmia.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict postoperative arrhythmia.  area under curve = 0.61; 95\%CI = 0.35-0.88}
     \label{}
@@ -503,6 +522,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_arrhythmia.png}
     \caption{}
     \label{}
@@ -510,6 +530,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_arrhythmia.png}
     \caption{}
     \label{}
@@ -517,6 +538,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_vent.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict prolonged postoperative mechanical ventilation.  area under curve = 0.77; 95\%CI = 0.61-0.93}
     \label{}
@@ -524,6 +546,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_vent.png}
     \caption{}
     \label{}
@@ -531,6 +554,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_vent.png}
     \caption{}
     \label{}
@@ -538,6 +562,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_recovery.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict delayed postoperative neurological recovery.  area under curve = 0.95; 95\%CI = 0.89-1.0}
     \label{}
@@ -545,6 +570,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_recovery.png}
     \caption{}
     \label{}
@@ -552,6 +578,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_recovery.png}
     \caption{}
     \label{}
@@ -559,6 +586,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_mi.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict perioperative myocardial infarction.  area under curve = 0.63; 95\%CI = 0.35-0.91}
     \label{}
@@ -566,6 +594,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_mi.png}
     \caption{}
     \label{}
@@ -573,6 +602,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_mi.png}
     \caption{}
     \label{}
@@ -580,6 +610,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/roc_mort.png}
     \caption{Receiver operating characteristic curve for the ability of NT-proBNP to predict in-hospital mortality.  area under curve = 0.73; 95\%CI = 0.52-0.94}
     \label{}
@@ -587,6 +618,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/cat_mort.png}
     \caption{}
     \label{}
@@ -594,6 +626,7 @@ in-hospital stay & Correlation Coefficient & -0.017-   \\
 
 \clearpage
 \begin{figure}
+    \centering
     \includegraphics[scale=0.7]{./images/manwhit_mort.png}
     \caption{}
     \label{}
