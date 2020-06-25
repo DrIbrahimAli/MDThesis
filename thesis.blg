@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 10320 items from 5000.
+Database file #1: thesis.bib
+Warning--I didn't find a database entry for "Heerdink1995"
+Warning--I didn't find a database entry for "7"
+Warning--empty publisher in Widmaier2008
+You've used 188 entries,
+            2773 wiz_defined-function locations,
+            1759 strings with 49340 characters,
+and the built_in function-call counts, 126023 in all, are:
+= -- 10154
+> -- 11517
+< -- 22
++ -- 3852
+- -- 3657
+* -- 12227
+:= -- 20305
+add.period$ -- 564
+call.type$ -- 188
+change.case$ -- 1783
+chr.to.int$ -- 181
+cite$ -- 377
+duplicate$ -- 3926
+empty$ -- 7617
+format.name$ -- 3871
+if$ -- 25464
+int.to.chr$ -- 8
+int.to.str$ -- 1
+missing$ -- 189
+newline$ -- 948
+num.names$ -- 752
+pop$ -- 3204
+preamble$ -- 1
+purify$ -- 1595
+quote$ -- 0
+skip$ -- 3481
+stack$ -- 0
+substring$ -- 4672
+swap$ -- 202
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2063
+warning$ -- 1
+while$ -- 751
+width$ -- 0
+write$ -- 2450
+(There were 3 warnings)
