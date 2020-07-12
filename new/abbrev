@@ -1,3 +1,6 @@
+ROC	receiver operating characteristics curve
+AUROC	area under receiver operating characteristics curve
+POAF	postoperative atrial fibraillation
 AF	atrial fibrillation
 PPM	permanent pacemaker
 CABG	coronary artery bypass grafting
@@ -12,5 +15,4 @@ PVD	peripheral vascular disease
 HTN	hypertension or hypertensive
 DM	diabetes mellitus
 NTproBNP	N-terminal proBNP
-
 MACEs	major adverse cardiac events
