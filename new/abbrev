@@ -1,20 +1,28 @@
-GATA
-CNH cardiac natriuretic hormones
-ROC	receiver operating characteristics curve
-AUROC	area under receiver operating characteristics curve
-POAF	postoperative atrial fibraillation
 AF	atrial fibrillation
-PPM	permanent pacemaker
-CABG	coronary artery bypass grafting
-OPCAB	off-pump CABG
-BNP	brain natriuretic peptide
+AKI	acute kidney injury
 ANP	atrial natriuretic peptide
+ARF	acute renal failure
+AUROC	area under receiver operating characteristics curve
+BNP	brain (B-type) natriuretic peptide
+CABG	coronary artery bypass grafting
+cGMP	cyclic guanosine monophosphate
+CNH	cardiac natriuretic hormones
 CNP	C-type natriuretic peptide
 COPD	chronic obstructive pulmonary disease
 CRF	chronic renal failure
-EF	ejection fraction
-PVD	peripheral vascular disease
-HTN	hypertension or hypertensive
 DM	diabetes mellitus
-NTproBNP	N-terminal proBNP
+EF	ejection fraction
+GATA
+HFpEF	heart failure with preserved ejection fraction
+HFrEF	heart failure with reduced ejection fraction
+HTN	hypertension or hypertensive
 MACEs	major adverse cardiac events
+NEP	neutral endopeptidase
+NP	natriuretic peptides
+NPR	natriuretic peptide receptors
+NTproBNP	N-terminal proBNP
+OPCAB	off-pump CABG
+POAF	postoperative atrial fibraillation
+PPM	permanent pacemaker
+PVD	peripheral vascular disease
+ROC	receiver operating characteristics curve
