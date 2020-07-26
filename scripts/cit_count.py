@@ -5,5 +5,11 @@ from sys import argv
 from collections import Counter
 
 
-citations = re.findall('citep\{[\w\d]*\}',open(argv[1]).read().lower())
-Counter(citations).most)_common(argv[2])
+citations = []
+with open(argv[1],'r') as fh:
+    for line in fh:
+        if line.startswith('%'): continue
+        citations += re.findall('citep\{[\w\d]*\}',line)
+
+for x,y in Counter(citations).most_common(int(argv[2])):
+    print('{} cited {} times'.format(x,y))
