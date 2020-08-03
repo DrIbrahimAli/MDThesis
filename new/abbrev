@@ -18,7 +18,7 @@ HFrEF	heart failure with reduced ejection fraction
 HTN	hypertension or hypertensive
 MACEs	major adverse cardiac events
 NEP	neutral endopeptidase
-NP	natriuretic peptides
+NPs	natriuretic peptides
 NPR	natriuretic peptide receptors
 NTproBNP	N-terminal proBNP
 OPCAB	off-pump CABG
@@ -26,3 +26,4 @@ POAF	postoperative atrial fibraillation
 PPM	permanent pacemaker
 PVD	peripheral vascular disease
 ROC	receiver operating characteristics curve
+ED  emergency department
