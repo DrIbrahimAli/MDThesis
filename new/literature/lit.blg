@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: lit.aux
+The style file: plainnat.bst
+Database file #1: lit.bib
+I was expecting a `,' or a `}'---line 4532 of file lit.bib
+ : 
+ : volume = 36,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 7152 of file lit.bib
+ : @article{Maisel2018
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7202 of file lit.bib
+ :  
+ :  title = {Angiotensin-neprilysin inhibition versus enalapril in heart failure.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7238 of file lit.bib
+ : 
+ : pages = {1733–9},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7254 of file lit.bib
+ : 
+ : pages = {655–63},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7259 of file lit.bib
+ : 
+ : journal = {Am Heart J},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 7278 of file lit.bib
+ : 
+ : pages = {215–9},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Widmaier2008"
+Warning--I didn't find a database entry for "Yang2004"
+Warning--I didn't find a database entry for "Omland2008"
+Warning--empty journal in Hsich2013
+Warning--empty year in Hsich2013
+Warning--empty year in Hsich2013
+Warning--empty title in McMurray2014
+Warning--empty journal in McMurray2014
+Warning--empty year in McMurray2014
+Warning--empty year in McMurray2014
+You've used 151 entries,
+            2773 wiz_defined-function locations,
+            1451 strings with 35800 characters,
+and the built_in function-call counts, 84076 in all, are:
+= -- 7048
+> -- 6383
+< -- 30
++ -- 2141
+- -- 1986
+* -- 7711
+:= -- 13327
+add.period$ -- 450
+call.type$ -- 151
+change.case$ -- 1114
+chr.to.int$ -- 147
+cite$ -- 309
+duplicate$ -- 3135
+empty$ -- 5976
+format.name$ -- 2169
+if$ -- 17274
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 151
+newline$ -- 760
+num.names$ -- 604
+pop$ -- 1963
+preamble$ -- 1
+purify$ -- 964
+quote$ -- 0
+skip$ -- 2490
+stack$ -- 0
+substring$ -- 3404
+swap$ -- 157
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1661
+warning$ -- 7
+while$ -- 598
+width$ -- 0
+write$ -- 1959
+(There were 7 error messages)

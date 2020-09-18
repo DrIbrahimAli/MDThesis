@@ -1,0 +1,448 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.8.27)  16 SEP 2020 02:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**lit.tex
+(./lit.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17> (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen134
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen136
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks18
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks19
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count188
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count189
+\multirow@dima=\skip55
+\bigstrutjot=\dimen147
+) (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box47
+) (./lit.aux)
+\openout1 = `lit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen149
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+Overfull \hbox (13.4031pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/14.4 All NPs de-rive from pre-pro-hormones (i.e., pre-proANP and preproBNP),
+ []
+
+
+Overfull \hbox (0.38469pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/14.4 the sar-coplas-mic retic-u-lum to a 126-amino-acid pro-hor-mone (proANP),
+ []
+
+[3] [4]
+
+Package natbib Warning: Citation `Widmaier2008' on page 5 undefined on input line 63.
+
+[5]
+<../../images/NP_structure.png, id=23, 881.2925pt x 685.56125pt>
+File: ../../images/NP_structure.png Graphic file (type png)
+<use ../../images/NP_structure.png>
+Package pdftex.def Info: ../../images/NP_structure.png  used on input line 89.
+(pdftex.def)             Requested size: 352.51076pt x 274.21964pt.
+<../../images/NP_physiology.png, id=24, 1026.83624pt x 681.54625pt>
+File: ../../images/NP_physiology.png Graphic file (type png)
+<use ../../images/NP_physiology.png>
+Package pdftex.def Info: ../../images/NP_physiology.png  used on input line 93.
+(pdftex.def)             Requested size: 410.72722pt x 272.61366pt.
+
+
+LaTeX Warning: Float too large for page by 0.21365pt on input line 93.
+
+[6] [7 <../../images/NP_structure.png (PNG copy)>] [8 <../../images/NP_physiology.png>]
+<../../images/BNP_secretion.png, id=35, 951.555pt x 590.205pt>
+File: ../../images/BNP_secretion.png Graphic file (type png)
+<use ../../images/BNP_secretion.png>
+Package pdftex.def Info: ../../images/BNP_secretion.png  used on input line 105.
+(pdftex.def)             Requested size: 380.61525pt x 236.0778pt.
+<../../images/NP_causes.png, id=36, 1085.05376pt x 674.52pt>
+File: ../../images/NP_causes.png Graphic file (type png)
+<use ../../images/NP_causes.png>
+Package pdftex.def Info: ../../images/NP_causes.png  used on input line 113.
+(pdftex.def)             Requested size: 325.51863pt x 202.35756pt.
+ [9] [10 <../../images/BNP_secretion.png (PNG copy)> <../../images/NP_causes.png>]
+
+Package natbib Warning: Citation `Yang2004' on page 11 undefined on input line 125.
+
+[11]
+<../../images/NP_biochem.png, id=48, 1073.00874pt x 173.64874pt>
+File: ../../images/NP_biochem.png Graphic file (type png)
+<use ../../images/NP_biochem.png>
+Package pdftex.def Info: ../../images/NP_biochem.png  used on input line 131.
+(pdftex.def)             Requested size: 1073.00612pt x 173.64832pt.
+
+Overfull \hbox (643.00612pt too wide) in paragraph at lines 131--131
+[][] 
+ []
+
+[12 <../../images/NP_biochem.png>]
+Overfull \hbox (3.55806pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/14.4 proBNP should be eas-ier be-cause their plasma con-cen-tra-tions are higher
+ []
+
+[13]
+
+Package natbib Warning: Citation `Omland2008' on page 14 undefined on input line 141.
+
+
+Overfull \hbox (29.10593pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/14.4 450 amino acid) ex-tra-cel-lu-lar lig-and bind-ing do-main and a sin-gle membrane-
+ []
+
+[14]
+<../../images/NP_receptors.jpg, id=59, 308.352pt x 222.1098pt>
+File: ../../images/NP_receptors.jpg Graphic file (type jpg)
+<use ../../images/NP_receptors.jpg>
+Package pdftex.def Info: ../../images/NP_receptors.jpg  used on input line 151.
+(pdftex.def)             Requested size: 308.35124pt x 222.10925pt.
+ [15] [16 <../../images/NP_receptors.jpg>] [17]
+Overfull \hbox (4.80644pt too wide) in paragraph at lines 196--197
+\OT1/cmr/m/n/14.4 NPR-A in vas-cu-lar smooth mus-cle cells demon-strated that while smooth
+ []
+
+[18] [19]
+Overfull \hbox (20.72427pt too wide) in paragraph at lines 208--209
+\OT1/cmr/m/n/14.4 hanced by na-tri-uretic pep-tides pro-duced lo-cally in tar-get tis-sues (paracrine
+ []
+
+[20]
+Overfull \hbox (4.48743pt too wide) in paragraph at lines 222--223
+\OT1/cmr/m/n/14.4 va-so-pro-tec-tive prop-er-ties of this pep-tide. Ob-ser-va-tions that CNP blocks
+ []
+
+[21] [22] [23] [24]
+Overfull \hbox (6.28326pt too wide) in paragraph at lines 296--297
+[]\OT1/cmr/m/n/14.4 Furthermore, they en-hance the na-tri-uretic ef-fect of ANP or BNP analogs
+ []
+
+[25] [26] [27] [28] [29] [30]
+<../../images/BNP_ER.png, id=111, 912.40875pt x 687.56876pt>
+File: ../../images/BNP_ER.png Graphic file (type png)
+<use ../../images/BNP_ER.png>
+Package pdftex.def Info: ../../images/BNP_ER.png  used on input line 345.
+(pdftex.def)             Requested size: 364.95703pt x 275.02263pt.
+<../../images/NTBNP_ER.png, id=112, 874.26625pt x 701.62125pt>
+File: ../../images/NTBNP_ER.png Graphic file (type png)
+<use ../../images/NTBNP_ER.png>
+Package pdftex.def Info: ../../images/NTBNP_ER.png  used on input line 347.
+(pdftex.def)             Requested size: 349.7003pt x 280.64352pt.
+<../../images/NTBNP_cutpoints.png, id=113, 1155.31625pt x 421.575pt>
+File: ../../images/NTBNP_cutpoints.png Graphic file (type png)
+<use ../../images/NTBNP_cutpoints.png>
+Package pdftex.def Info: ../../images/NTBNP_cutpoints.png  used on input line 349.
+(pdftex.def)             Requested size: 1155.31345pt x 421.57396pt.
+
+Overfull \hbox (725.31345pt too wide) in paragraph at lines 349--349
+[][] 
+ []
+
+<../../images/NTBNP_HF.png, id=114, 1161.33875pt x 335.2525pt>
+File: ../../images/NTBNP_HF.png Graphic file (type png)
+<use ../../images/NTBNP_HF.png>
+Package pdftex.def Info: ../../images/NTBNP_HF.png  used on input line 351.
+(pdftex.def)             Requested size: 1161.33592pt x 335.25168pt.
+
+Overfull \hbox (731.33592pt too wide) in paragraph at lines 351--351
+[][] 
+ []
+
+[31] [32 <../../images/BNP_ER.png (PNG copy)>] [33 <../../images/NTBNP_ER.png (PNG copy)>] [34 <../../images/NTBNP_cutpoints.png>] [35 <../../images/NTBNP_HF.png>]
+Overfull \hbox (17.2364pt too wide) in paragraph at lines 355--356
+\OT1/cmr/m/n/14.4 is a class I in-di-ca-tion in the Amer-i-can Heart As-so-ci-a-tion (AHA)/American
+ []
+
+[36] [37] [38] [39]
+Overfull \hbox (24.55264pt too wide) in paragraph at lines 396--397
+\OT1/cmr/m/n/14.4 ex-er-cise oxy-gen con-sump-tion) bet-ter than the left ven-tric-u-lar EF. [Williams
+ []
+
+[40] [41] [42] [43] [44]
+Overfull \hbox (1.07907pt too wide) in paragraph at lines 440--441
+[]\OT1/cmr/m/n/14.4 Nielsen et al. [Nielsen et al., 2003] sought to as-sess the cost-effectiveness
+ []
+
+[45] [46] [47]
+Overfull \hbox (7.53806pt too wide) in paragraph at lines 470--471
+[]\OT1/cmr/m/n/14.4 The Val-HeFT ther-a-peu-tic trial (Val-sar-tan Heart Fail-ure Trial) in chronic
+ []
+
+[48]
+<../../images/NTBNP_zile.png, id=172, 1204.5pt x 725.71124pt>
+File: ../../images/NTBNP_zile.png Graphic file (type png)
+<use ../../images/NTBNP_zile.png>
+Package pdftex.def Info: ../../images/NTBNP_zile.png  used on input line 476.
+(pdftex.def)             Requested size: 1204.49707pt x 725.70947pt.
+
+Overfull \hbox (774.49707pt too wide) in paragraph at lines 476--476
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 249.30946pt on input line 476.
+
+[49] [50 <../../images/NTBNP_zile.png>] [51]
+Overfull \hbox (71.9174pt too wide) in paragraph at lines 502--503
+\OT1/cmr/m/n/14.4 ACS. A meta-analysis con-firmed the pow-er-ful prog-nos-tic value of BNP/NTproBNP
+ []
+
+[52] [53]
+Overfull \hbox (3.49121pt too wide) in paragraph at lines 519--520
+\OT1/cmr/m/n/14.4 tions, study pop-u-la-tion char-ac-ter-is-tics, and re-sult-ing biomarker changes
+ []
+
+[54]
+<../../images/NP_treatment.png, id=193, 1051.93pt x 691.58376pt>
+File: ../../images/NP_treatment.png Graphic file (type png)
+<use ../../images/NP_treatment.png>
+Package pdftex.def Info: ../../images/NP_treatment.png  used on input line 523.
+(pdftex.def)             Requested size: 1051.92743pt x 691.58206pt.
+
+Overfull \hbox (621.92743pt too wide) in paragraph at lines 523--523
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 198.18205pt on input line 523.
+
+[55] [56 <../../images/NP_treatment.png>] [57]
+Overfull \hbox (5.75783pt too wide) in paragraph at lines 541--542
+[]\OT1/cmr/m/n/14.4 Neprilysin me-di-ates cleav-age of the bi-o-log-i-cally ac-tive carboxy-terminals
+ []
+
+
+Overfull \hbox (17.68803pt too wide) in paragraph at lines 545--546
+\OT1/cmr/m/n/14.4 Fail-ure (PARADIGM-HF) trial com-pared the novel neprilysin-angiotensin
+ []
+
+[58] [59] [60] [61] [62]
+Overfull \hbox (8.72957pt too wide) in paragraph at lines 601--602
+\OT1/cmr/m/n/14.4 due to sup-pres-sion of syn-the-sis or re-lease of NPs in obese patients.[Bayes-
+ []
+
+
+Overfull \hbox (0.53976pt too wide) in paragraph at lines 605--606
+[]\OT1/cmr/m/n/14.4 Nevertheless, the di-ag-nos-tic ac-cu-racy of NP cut-off points (age-stratified
+ []
+
+[63]
+<../../images/NP_obesity.png, id=223, 792.9625pt x 567.11874pt>
+File: ../../images/NP_obesity.png Graphic file (type png)
+<use ../../images/NP_obesity.png>
+Package pdftex.def Info: ../../images/NP_obesity.png  used on input line 607.
+(pdftex.def)             Requested size: 792.96056pt x 567.11736pt.
+
+Overfull \hbox (362.96056pt too wide) in paragraph at lines 607--607
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 39.71735pt on input line 607.
+
+
+Overfull \hbox (1.82639pt too wide) in paragraph at lines 611--612
+[]\OT1/cmr/m/n/14.4 Age-adjusted val-ues en-hance the speci-ficity and ac-cu-racy of NT-proBNP
+ []
+
+[64] [65 <../../images/NP_obesity.png>]
+Overfull \hbox (0.12292pt too wide) in paragraph at lines 623--625
+\OT1/cmr/m/n/14.4 only mod-est and, al-though sig-nif-i-cantly dif-fer-ent be-tween the two treat-
+ []
+
+[66] [67] (./lit.bbl [68] [69] [70] [71] [72] [73] [74] [75] [76]
+Underfull \hbox (badness 1248) in paragraph at lines 488--494
+[]\OT1/cmr/m/n/14.4 TH Lan-genickel, J Buttgereit, I Pagel-Langenickel, M Lind-ner,
+ []
+
+[77] [78] [79] [80] [81] [82] [83]
+Underfull \hbox (badness 1205) in paragraph at lines 882--888
+[]\OT1/cmr/m/n/14.4 Quynh Troung, James Bay-ley, Udo Hoff-man, Fabian Bam-berg,
+ []
+
+[84] [85] [86])
+
+Package natbib Warning: There were undefined citations.
+
+[87] (./lit.aux) ) 
+Here is how much of TeX's memory you used:
+ 3346 strings out of 482854
+ 47697 string characters out of 5956881
+ 284886 words of memory out of 5000000
+ 18655 multiletter control sequences out of 15000+600000
+ 542985 words of font info for 59 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 36i,6n,33p,1399b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ibrahim/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on lit.pdf (87 pages, 1938176 bytes).
+PDF statistics:
+ 330 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
