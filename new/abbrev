@@ -1,4 +1,3 @@
-ET-1  endothelin-1
 ADHF  acute decompensated heart failure
 AF	atrial fibrillation
 AKI	acute kidney injury
@@ -7,25 +6,25 @@ ARF	acute renal failure
 AUROC	area under receiver operating characteristics curve
 BNP	brain (B-type) natriuretic peptide
 CABG	coronary artery bypass grafting
-cGMP	cyclic guanosine monophosphate
 CNH	cardiac natriuretic hormones
 CNP	C-type natriuretic peptide
 COPD	chronic obstructive pulmonary disease
 CRF	chronic renal failure
 DM	diabetes mellitus
+ED  emergency department
 EF	ejection fraction
-GATA
+ET-1  endothelin-1
 HFpEF	heart failure with preserved ejection fraction
 HFrEF	heart failure with reduced ejection fraction
 HTN	hypertension or hypertensive
 MACEs	major adverse cardiac events
 NEP	neutral endopeptidase
-NPs	natriuretic peptides
 NPR	natriuretic peptide receptors
+NPs	natriuretic peptides
 NTproBNP	N-terminal proBNP
 OPCAB	off-pump CABG
 POAF	postoperative atrial fibraillation
 PPM	permanent pacemaker
 PVD	peripheral vascular disease
 ROC	receiver operating characteristics curve
-ED  emergency department
+cGMP	cyclic guanosine monophosphate
